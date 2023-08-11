@@ -5,6 +5,16 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sangram37" alt="sangram37" /></a> </p>
 
+- 🔭 I’m currently working on [BoookOdisha](https://play.google.com/store/apps/details?id=com.bookingodishatourism)
+
+- 🌱 I’m currently learning **Node js**
+
+- 👨‍💻 All of my projects are available at [https://github.com/sangram37](https://github.com/sangram37)
+
+- 💬 Ask me about **React, React Native, Javascript, Typescript,Redux,**
+
+- 📫 How to reach me **samantasangram37@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sangram-keshari-samanta-594984175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sangram-keshari-samanta-594984175" height="30" width="40" /></a>
